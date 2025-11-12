@@ -35,3 +35,8 @@ It allows CRUD operations, department-based listing, average salary analysis, an
    git clone https://github.com/yourusername/employee_project.git
    cd employee_project
 
+## Images
+
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/4332b2c0-f850-499d-b06e-1b6740bb1000" />
+
+
